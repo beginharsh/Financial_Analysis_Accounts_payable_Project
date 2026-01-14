@@ -1,0 +1,21 @@
+Vendor_ID,Vendor_Name,Category,Payment_Terms_Days,Country
+1,Vendor_1,Logistics,60,Germany
+2,Vendor_2,Raw Material,45,India
+3,Vendor_3,Services,30,India
+4,Vendor_4,Raw Material,15,India
+5,Vendor_5,Logistics,60,India
+6,Vendor_6,Logistics,30,India
+7,Vendor_7,IT,15,India
+8,Vendor_8,Raw Material,15,India
+9,Vendor_9,Services,60,USA
+10,Vendor_10,Raw Material,45,USA
+11,Vendor_11,Raw Material,60,USA
+12,Vendor_12,Logistics,45,India
+13,Vendor_13,Raw Material,45,India
+14,Vendor_14,Raw Material,60,Germany
+15,Vendor_15,Logistics,30,USA
+16,Vendor_16,Logistics,45,USA
+17,Vendor_17,Raw Material,60,India
+18,Vendor_18,Logistics,45,Germany
+19,Vendor_19,IT,60,India
+20,Vendor_20,Raw Material,45,USA
